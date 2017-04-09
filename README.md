@@ -1,2 +1,5 @@
 # hello_world
-first repository
+
+Hello World
+
+I am a computer enginmaneer not a Engrish major
